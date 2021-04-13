@@ -1,4 +1,4 @@
-# p3
+# BMI Calculator
 
 A new Flutter application.
 
